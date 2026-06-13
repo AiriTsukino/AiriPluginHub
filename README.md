@@ -14,6 +14,7 @@ https://raw.githubusercontent.com/AiriTsukino/AiriPluginHub/main/pluginmaster.js
 - AutoGreet
 - RaffleManager
 - GambaAssistant [WIP]
+- ShopHelper
 
 ## How players add this in-game
 
