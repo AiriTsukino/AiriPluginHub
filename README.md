@@ -10,11 +10,11 @@ https://raw.githubusercontent.com/AiriTsukino/AiriPluginHub/main/pluginmaster.js
 
 ## Current Plugins
 
-- BarManager
-- AutoGreet
-- RaffleManager
-- GambaAssistant [WIP]
-- ShopHelper
+- BarManager [Github Repo](https://github.com/AiriTsukino/BarManager)
+- AutoGreet [Github Repo](https://github.com/AiriTsukino/AutoGreet)
+- RaffleManager [Github Repo](https://github.com/AiriTsukino/RaffleManager)
+- GambaAssistant [WIP] [Github Repo](https://github.com/AiriTsukino/GambaAssistant)
+- ShopHelper [Github Repo](https://github.com/AiriTsukino/ShopHelper)
 
 ## How players add this in-game
 
