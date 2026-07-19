@@ -83,5 +83,22 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/AiriTsukino/ShopHelper/main/ShopHelper.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/AiriTsukino/ShopHelper/main/ShopHelper.zip",
     "LastUpdate": "1781307189"
+  },
+  {
+    "Author": "Airi Tsukino",
+    "Name": "VenueManager",
+    "InternalName": "VenueManager",
+    "AssemblyVersion": "1.0.11.1",
+    "Description": "Multi-venue staff, shift, attendance, and payroll management dashboard.",
+    "Punchline": "Manage venue staff, shifts, attendance, and pay.",
+    "RepoUrl": "https://github.com/AiriTsukino/VenueManager",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "IconUrl": "https://raw.githubusercontent.com/AiriTsukino/VenueManager/main/VenueManager/Resources/VMLogo.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/AiriTsukino/VenueManager/main/VenueManager.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/AiriTsukino/VenueManager/main/VenueManager.zip",
+    "LastUpdate": "1784425270"
   }
 ]
