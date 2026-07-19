@@ -15,6 +15,7 @@ https://raw.githubusercontent.com/AiriTsukino/AiriPluginHub/main/pluginmaster.js
 - RaffleManager [Github Repo](https://github.com/AiriTsukino/RaffleManager)
 - GambaAssistant [WIP] [Github Repo](https://github.com/AiriTsukino/GambaAssistant)
 - ShopHelper [Github Repo](https://github.com/AiriTsukino/ShopHelper)
+- ShiftKeeper [Github Repo](https://github.com/AiriTsukino/ShiftKeeper)
 
 ## How players add this in-game
 
