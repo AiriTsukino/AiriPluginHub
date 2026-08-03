@@ -10,6 +10,11 @@ https://raw.githubusercontent.com/AiriTsukino/AiriPluginHub/main/pluginmaster.js
 
 ## Current Plugins
 
+- AirTablet [Github Repo](https://github.com/AiriTsukino/AirTablet)
+
+## AirTablet Includes all the things below built into one 16:9 tablet interface. I will not be updating the standalone plugins further.
+### The tablet has the option to migrate all the installed standalone plugin configs to the tablet so moving to the tablet is a simple process.
+
 - BarManager [Github Repo](https://github.com/AiriTsukino/BarManager)
 - AutoGreet [Github Repo](https://github.com/AiriTsukino/AutoGreet)
 - RaffleManager [Github Repo](https://github.com/AiriTsukino/RaffleManager)
